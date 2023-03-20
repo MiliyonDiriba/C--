@@ -140,4 +140,16 @@ void searchGuest() {
             cout << "Guest address: " << guest.address << endl;
             cout << "Guest phone number: " << guest.phone << endl;
             cout << "Guest room number: " << guest.roomNumber << endl;
-        cout << "Duration of stay: " << guest.duration << " days
+        cout << "Duration of stay: " << guest.duration << " days" << endl;
+        found = true;
+        break;
+    }
+}
+
+// Close the file
+file.close();
+
+if (!found) {
+    cout << "Guest not found!\n";
+}
+}
