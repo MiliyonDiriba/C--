@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Project start A/Additional/Biruk/C++",
-      "program": "d:/Project start A/Additional/Biruk/C++/build/Debug/outDebug",
+      "cwd": "d:/Project start A/Additional/Biruk/Hotel Management System",
+      "program": "d:/Project start A/Additional/Biruk/Hotel Management System/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
